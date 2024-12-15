@@ -73,7 +73,7 @@ button {
 
 /* Heading */
 .heading,
-.adding-element-label[for="new-task"] {
+.adding-element-label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -101,7 +101,7 @@ button {
 }
 
 /* New Task */
-.adding-element-label[for="new-task"] {
+.adding-element-label {
   display: block;
   margin: 0 0 20px;
 }
